@@ -19,7 +19,7 @@ return (
             <div>
                 <ul className='flex space-x-4'>
 
-                <li><a href="/" className="hover:text-red-600"> Search</a></li>
+                <li><Link href="/" className="hover:text-red-600"> Search</Link></li>
                     <li><Link href="" className="hover:text-red-600"> New Cars</Link></li>
                     <li><Link href="" className="hover:text-red-600"> Auto Store</Link></li>
                     <li><Link href="" className="hover:text-red-600"> Bikes</Link></li>
