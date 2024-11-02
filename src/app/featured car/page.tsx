@@ -22,7 +22,7 @@ export default function Feauturedcar(){
  <div className=" h-72 w-60 bg-white" >
                     <div className="h-60 w-full"> 
                      <Link href="car2">
-                     <img src="suzuki_alto_-_PNG.png " className="h-60 w-full">
+                     <img src="Suzuki_Alto_-_PNG.png" className="h-60 w-full">
                      </img>
                      </Link>
                      <div className="flex justify-center flex-col font-semibold px-12"><h2>SUZUKI ALTO</h2>
